@@ -1,1 +1,2 @@
 # arabic-keywords-extract
+This notebook provides two simple and effieceint examples of how to extract Arabic keywords from social media posts using the Python KeyBERT package. KeyBERT is a simple and easy-to-use keyword extraction technique that uses BERT embeddings to generate keywords and keyphrases that are most similar to a document. However, extracting keywords from social media posts is not as straightforward as extracting from documents, and existing tools do not work as well with Arabic as they do with English.
